@@ -8,4 +8,4 @@ By clicking on an element in the to do list, you can cross it off.
 
 To delete an element, click on the red box on the right hand side.
 
-(website_image.png)
+![What the website looks like](website_image.png)
